@@ -26,6 +26,10 @@ python main.py
 
 ![Jetris](https://github.com/user-attachments/assets/528a5fe5-d3cf-4c7d-8145-ab3544478230)
 
+## Development Notes
+The `tetris1.py`, `tetris1.py`, etc., files show the step-by-step progress made while building `main.py`.
+They are kept in the repository for learning and reference purposes
+
 ## Credits
 
 This project is inspired by or based on https://www.techwithtim.net/tutorials/game-development-with-python/tetris-pygame
